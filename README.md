@@ -33,7 +33,8 @@ Follow on-screen prompts for player turns
 
 Python 3.x (no external libraries required)
 
-##Future Improvements
+## Future Improvements
+
 Add GUI version with Tkinter
 
 Implement computer opponent with AI
