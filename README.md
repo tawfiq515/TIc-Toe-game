@@ -15,7 +15,7 @@ A Python implementation of the classic two-player Tic Tac Toe game with console 
 3. Execute the script to start the game:  
    ```bash  
    python tic_tac_toe.py  
-##Gameplay Instructions
+## Gameplay Instructions
 
 Players alternate turns entering coordinates (0-2) for rows and columns
 
@@ -23,12 +23,14 @@ First player to get 3 in a row wins
 
 Game ends when a player wins or the board is full
 
-##Controls
+## Controls
+
 Enter moves as space-separated row and column numbers (e.g., "1 2")
 
 Follow on-screen prompts for player turns
 
-##Dependencies
+## Dependencies
+
 Python 3.x (no external libraries required)
 
 ##Future Improvements
